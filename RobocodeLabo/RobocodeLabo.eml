@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="codesize-1.1.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/codesize-1.1.jar!/"/>
+	</lib>
+	<lib name="picocontainer-2.14.2.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/picocontainer-2.14.2.jar!/"/>
+	</lib>
+	<lib name="robocode.battle-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.battle-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.core-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.core-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.host-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.host-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.jar" scope="COMPILE">
+		<srcroot url="file:///home/dbellante/Escritorio/Fac/Labo/Labo2017/robocode-1.9.2.6-src.zip"/>
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.jar!/"/>
+	</lib>
+	<lib name="robocode.repository-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.repository-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.sound-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.sound-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.ui-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.ui-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="robocode.ui.editor-1.9.2.6.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/robocode.ui.editor-1.9.2.6.jar!/"/>
+	</lib>
+	<lib name="roborumble.jar" scope="COMPILE">
+		<relative-module-cls project-related="jar://$PROJECT_DIR$/libs/roborumble.jar!/"/>
+	</lib>
+</component>
